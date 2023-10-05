@@ -5,3 +5,14 @@ Addressed the challenge of manually providing salary receipts to university staf
 procedure.
 Designed and implemented the software to automate the generation of salary slips, improving efficiency
 and reducing manual workload.
+
+
+
+Maintainers :- 
+
+Jatinder Mahajan
+
+Establishment :-
+
+2021
+ 
