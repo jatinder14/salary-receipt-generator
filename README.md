@@ -16,3 +16,4 @@ Establishment :-
 
 2021
  
+[![An image of @jatinder14's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jatinder14)](https://holopin.io/@jatinder14)
